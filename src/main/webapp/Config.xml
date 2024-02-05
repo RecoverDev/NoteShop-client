@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConfigSQL>
+	<Driver>com.mysql.cj.jdbc.Driver</Driver>
+	<URL>jdbc:mysql://localhost/noteshop</URL>
+	<Login>root</Login>
+	<Password>root</Password>
+</ConfigSQL>

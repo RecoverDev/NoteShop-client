@@ -1,0 +1,141 @@
+﻿a{
+    margin: 5px 5px 5px 5px;
+    color:orange;
+    font-size:20;
+}
+    a:hover {
+        margin: 6px 6px 6px 6px;
+        color:orangered;
+        font-size:22;
+    }
+header{
+    background-color: white;
+    width: 100%;
+    padding:5px
+}
+input{
+	font-size: 15px;
+	margin: 5px;
+}
+.title {
+    font-size: 40px;
+    color: orange;
+    text-align: center;
+    margin:1px 1px 1px 1px;
+}
+.titleItalic {
+    font-size: 36px;
+    color: orange;
+    font-style: italic;
+    font-variant-position:sub;
+    
+}
+.divPage {
+    background-color: white;
+    color: white;
+    width: 100%;
+    margin: 5px 5px 5px 5px;
+    padding: 5px
+}
+.divFooter {
+    background-color: gray;
+    width: 100%;
+    color: white;
+    clear: both;
+}
+.divFlex {
+    background-color: white;
+    width: 100%;
+    clear:left;
+    margin:  5px 5px 5px 5px;
+    padding: 5px
+}
+.divLeftFlex {
+    float: left;
+    background-color: white;
+    margin: 5px 5px 5px 5px;
+}
+.divRightFlex {
+    background-color: white;
+    float: right;
+    margin: 5px 5px 5px 5px;
+}
+.divArcticle {
+    background-color: whitesmoke;
+    width: 100%;
+}
+    .divArcticle:hover {
+        background-color: white;
+        width: 100%;
+        border: 2px solid cyan;
+        resize:both;
+    }
+.filterText{
+     background-color: orange;
+     font-size:25px;
+     color: white;
+     text-align: center;
+     margin: 2px 2px 2px 2px; 
+}
+.OrangeButton{
+	border:2px solid orange;
+	border-radius:10px 10px; 
+	margin:5px 5px 5px 5px;
+	padding: 5px 5px 5px 5px;
+    background-color: orange;
+    color: white;
+    text-align: center;
+    font-size:20px;
+    height: 40px;
+    width: 100px;
+}
+.Card{
+	font-size:20px;
+}
+.cell{
+	padding:5px;
+	border-right: 1px solid black; 
+	border-bottom: 1px solid black;
+	text-align:center;
+}
+.rightCell{
+	padding:5px;
+	border-bottom: 1px solid black;
+	text-align:center;
+}
+.titlePart{
+	text-align:center;
+	font-size:30px;
+	color:orange;
+}
+.tableStyle{
+	font-size: 20px;
+	margin:20px;
+	width: 100%;
+	padding: 10px 10px 10px 10px;
+}
+.myMenu{
+	margin:10px;
+	font-size: 25px;
+	background-color: orange;
+	color: white;
+	padding:10px;
+}
+.Item{
+	color:white;
+	padding:5px;
+	margin:5px 5px 5px 5px;
+	padding: 5px 5px 5px 5px;
+}
+.Item:focus {
+	border:2px solid orange;
+	border-radius:10px 10px; 
+	margin:5px 5px 5px 5px;
+	padding: 5px 5px 5px 5px;
+	background-color: white;
+	color:orange;
+}
+.warning{
+	text-align: center;
+	color:red;
+}
